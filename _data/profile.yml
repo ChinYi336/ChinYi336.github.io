@@ -1,61 +1,92 @@
-primary_name: "Your Name"
+primary_name: "Chin-Yi Chen"
 secondary_name: ""
-navbar_name: "Your Name"
+navbar_name: "Chin-Yi Chen"
 
 positions:
-- logo: /assets/images/badges/MIT_Social_circle.png  # Logo is optional
-  name: Position 1 with logo
-- name: Position 2 without logo
+- logo: /assets/images/badges/psu.png  # Logo is optional
+  name: Postdoctoral Researcher @ Penn State
+#- name: Position 2 without logo
 
 
-email: "your@email.com"
-# cv_link: link-to-your-cv-file
-gscholar: xFmQpf4AAAAJ  # This is an example, replace it with your own Google Scholar ID
-github: your_github_id
-twitter: your_twitter_id  # Do not include the '@' symbol
+email: "ckc5957@psu.edu"
+# cv_link: /assets/cv.pdf
+gscholar: Z6rKmGUAAAAJ  # This is an example, replace it with your own Google Scholar ID
+#github: your_github_id
+#twitter: your_twitter_id  # Do not include the '@' symbol
 # wechat_qrcode: /assets/images/etc/wechat.jpg
 # wechat_prompt: >-
 #   Please tell me your <strong>name</strong> and <strong>affiliation</strong> (current or past) when adding my wechat. Thanks!
-# linkedin: your-linked-in-id
+# linkedin: xxxxxx
 # orcid: 0000-0000-0000-0000
 
 short_bio_text_justify: false
 short_bio: >-
   <p>
-    A <a href="https://en.wikipedia.org/wiki/Bicolor_cat" target="_blank">bicolor cat</a> is a cat with white fur combined with fur of some other colour, for example solid black, tabby, or colourpointed.
+    I am a Postdoctoral Researcher at the Department of Chemistry, Penn State.
   </p>
   <p>
-    There are various patterns of a bicolour cat. These range from the Van-patterned (colour on the crown of the head 
-    and the tail only) to a solid colour with a throat locket or medallion. Bicolour coats are found in many cat breeds, 
-    as well as being common in domestic longhair and domestic shorthair cats.
+    I received my Ph.D. and B.S. at the Department of Applied Chemistry, National Chiao Tung University.
   </p>
 
 portrait_url: /assets/images/photos/portrait.jpg
 portrait_caption: >-
-  Photo by Manja Vitolic on Unsplash (this caption is optional, comment it out to disable).
+  
 
 education:
-- name: Massachusetts Institute of Technology
-  logo: /assets/images/badges/MIT_Social_circle.png
+- name: Penn State University
+  logo: /assets/images/badges/psu.png
   position: >- 
-    Department of Electrical Engineering and Computer Science <br/>
-    Ph.D. Student
-  date: Sep. 2024 - present
-- name: Peking University
-  logo: /assets/images/badges/PKU_red.png
-  position: B.S. in Computer Science
-  date: Sep. 2019 - Jul. 2021
+    Department of Chemistry <br/>
+    Visiting Scholar
+  date: Sep. 2023 - Sep. 2024
 
-# experience:
-# - name: Peking University
-#   logo: /assets/images/badges/PKU_red.png
-#   position: Research Intern
-#   date: Sep. 2019 - Jul. 2021
+- name: National Yang Ming Chiao Tung University
+  logo: /assets/images/badges/nycu.png
+  position: >-
+    Department of Applied Chemistry <br/>
+    Ph.D. in Applied Chemistry
+  date: Sep. 2018 - Oct. 2024
+
+- name: National University of Singapore
+  logo: /assets/images/badges/nus.png
+  position: Exchange Student
+  date: Jan. 2018 - May 2018
+
+- name: National Chiao Tung University
+  logo: /assets/images/badges/nctu.png
+  position: >-
+    Department of Applied Chemistry <br/>
+    B.S. in Applied Chemistry
+  date: Sep. 2014 - Jun. 2018
+
+experience:
+- name: Penn State University
+  logo: /assets/images/badges/psu.png
+  position: >- 
+    Department of Chemistry <br/>
+    Postdoctoral Researcher
+  date: Dec. 2024 - Present
+
+- name: TSMC
+  logo: /assets/images/badges/tsmc.png
+  position: Research Intern
+  date: Jul. 2021 - Sep. 2021
+
+- name: Daxin Materials Corporation
+  logo: /assets/images/badges/daxin.png
+  position: Intern
+  date: Jul. 2018 - Aug. 2018
 
 awards:
-- name: Award Name 2
-  date: 2024
-- name: Award Name 1 
+- name: Honorable Mention of Research and Development Group in the 2021 Taiwan Semiconductor Manufacturing Company (TSMC) internship final competition
   date: 2021
-- name: A quick brown fox jumps over the lazy dog and runs away award
-  date: 2021
+- name: TSMC PhD Scholarship
+  date: 2020
+- name: Academic Achievement Award, Master first semester
+  date: 2019
+- name: Academic Achievement Award, Master second semester
+  date: 2019
+- name: First place of group presentation in winter school on free electron laser (hold by National Synchrotron Radiation Research Center)
+  date: 2017
+- name: Academic Achievement Award, Sophomore second semester
+  date: 2016
