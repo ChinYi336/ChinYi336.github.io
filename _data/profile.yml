@@ -22,11 +22,21 @@ gscholar: Z6rKmGUAAAAJ  # This is an example, replace it with your own Google Sc
 short_bio_text_justify: false
 short_bio: >-
   <p>
-    I am a Postdoctoral Researcher at the Department of Chemistry, Penn State.
+    I am a Postdoctoral Researcher at the Department of Chemistry, Penn State, under the supervision of <a href="https://science.psu.edu/chem/people/psc11" target="_blank">Prof. Paul Cremer</a>.
+    My research interests lie in the air/water interface.
   </p>
   <p>
     I received my Ph.D. and B.S. at the Department of Applied Chemistry, National Chiao Tung University.
   </p>
+
+  <blockquote class="blockquote">
+    <p>
+      "Be water, my friend."
+    </p>
+    <footer class="blockquote-footer">
+      Bruce Lee
+    </footer>
+  </blockquote>
 
 portrait_url: /assets/images/photos/portrait.jpg
 portrait_caption: >-

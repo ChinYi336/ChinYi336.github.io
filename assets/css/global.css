@@ -67,3 +67,14 @@ div.lazy {
     font-family: Courier, monospace;
 }
 
+.blockquote {
+    margin: 20px 0 30px;
+    padding-left: 20px;
+    border-left: 5px solid #e488df;
+}
+
+.blockquote-footer {
+    display: block;
+    font-size: 80%;
+    color: #6c757d;
+}
